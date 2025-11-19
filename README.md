@@ -1,10 +1,7 @@
-#README
+> ⚠️ 通知****  
+> 此存储库将于 2025 年 11 月 14 日存档****。  
+> 可在以下位置找到新的 DevOps 实验室存储库：[MicrosoftLearning/mslearn-devops](https://github.com/MicrosoftLearning/mslearn-devops)
 
-We've turned off the ability to report issues directly on this repo and do not monitor PRs.
-
-Provide feedback here: https://aka.ms/provide-feedback
-
-Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
 
 # AZ-2008：DevOps 基础知识：核心原则和做法
 
